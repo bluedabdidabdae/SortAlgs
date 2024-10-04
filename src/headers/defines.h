@@ -1,3 +1,5 @@
+// Copyright (C) 2024  blue_dabdidabdae
+// full notice in main.cpp
 #ifndef DEFINES_H
 #define DEFINES_H
 

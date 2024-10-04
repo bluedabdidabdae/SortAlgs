@@ -1,3 +1,5 @@
+// Copyright (C) 2024  blue_dabdidabdae
+// full notice in main.cpp
 #ifndef DATA_INIT_RESET_H
 #define DATA_INIT_RESET_H
 
